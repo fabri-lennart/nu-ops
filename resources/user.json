@@ -1,12 +1,142 @@
-2025-11-24 10:14:32 [INFO] System boot completed.
-2025-11-24 10:14:35 [WARN] High CPU usage detected on node-3.
-2025-11-24 10:15:01 [ERROR] Failed to mount /dev/sda1. Code: 32.
-2025-11-24 10:17:55 [INFO] User 'deploy_agent' logged in.
-2025-11-24 10:20:10 [INFO] Cron job 'backup_db' started.
-2025-11-24 10:20:11 [ERROR] Backup error: missing table reference.
-2025-11-24 10:21:44 [WARN] Disk space running low: /var/log at 84%.
-2025-11-24 10:25:00 [INFO] Cron job 'backup_db' completed in 2891ms.
-2025-11-24 10:30:12 [ERROR] Network timeout detected to 10.0.2.14.
-2025-11-24 10:45:22 [INFO] Package update completed: 17 packages.
-2025-11-24 11:02:19 [WARN] Zombie processes found: 3.
-2025-11-24 11:14:40 [INFO] System health check passed.
+[
+  {
+    "id": 1,
+    "name": "Ana",
+    "role": "DevOps Engineer",
+    "preferences": {
+      "language": "es",
+      "timezone": "UTC-6"
+    },
+    "last_login": "2025-11-25T08:15:30",
+    "session_hours": 5.2,
+    "logins_count": 45,
+    "tasks_completed": 12,
+    "errors_reported": 2
+  },
+  {
+    "id": 2,
+    "name": "Luis",
+    "role": "SRE",
+    "preferences": {
+      "language": "en",
+      "timezone": "UTC-5"
+    },
+    "last_login": "2025-11-24T18:45:10",
+    "session_hours": 3.8,
+    "logins_count": 32,
+    "tasks_completed": 8,
+    "errors_reported": 0
+  },
+  {
+    "id": 3,
+    "name": "Sofia",
+    "role": "QA Engineer",
+    "preferences": {
+      "language": "es",
+      "timezone": "UTC-4"
+    },
+    "last_login": "2025-11-25T11:10:05",
+    "session_hours": 2.4,
+    "logins_count": 18,
+    "tasks_completed": 5,
+    "errors_reported": 5
+  },
+  {
+    "id": 4,
+    "name": "Noah",
+    "role": "Developer",
+    "preferences": {
+      "language": "en",
+      "timezone": "UTC-3"
+    },
+    "last_login": "2025-11-25T09:55:20",
+    "session_hours": 4.7,
+    "logins_count": 22,
+    "tasks_completed": 10,
+    "errors_reported": 1
+  },
+  {
+    "id": 5,
+    "name": "Isabella",
+    "role": "Project Manager",
+    "preferences": {
+      "language": "es",
+      "timezone": "UTC-6"
+    },
+    "last_login": "2025-11-24T20:05:00",
+    "session_hours": 1.9,
+    "logins_count": 15,
+    "tasks_completed": 7,
+    "errors_reported": 0
+  },
+  {
+    "id": 6,
+    "name": "Mateo",
+    "role": "DevOps Engineer",
+    "preferences": {
+      "language": "es",
+      "timezone": "UTC-5"
+    },
+    "last_login": "2025-11-25T07:30:15",
+    "session_hours": 6.0,
+    "logins_count": 40,
+    "tasks_completed": 15,
+    "errors_reported": 3
+  },
+  {
+    "id": 7,
+    "name": "Emma",
+    "role": "Designer",
+    "preferences": {
+      "language": "en",
+      "timezone": "UTC-4"
+    },
+    "last_login": "2025-11-25T10:20:40",
+    "session_hours": 2.0,
+    "logins_count": 12,
+    "tasks_completed": 3,
+    "errors_reported": 0
+  },
+  {
+    "id": 8,
+    "name": "Oliver",
+    "role": "DevOps Engineer",
+    "preferences": {
+      "language": "en",
+      "timezone": "UTC-5"
+    },
+    "last_login": "2025-11-25T06:50:00",
+    "session_hours": 5.5,
+    "logins_count": 35,
+    "tasks_completed": 14,
+    "errors_reported": 2
+  },
+  {
+    "id": 9,
+    "name": "Valentina",
+    "role": "Support",
+    "preferences": {
+      "language": "es",
+      "timezone": "UTC-6"
+    },
+    "last_login": "2025-11-25T12:05:30",
+    "session_hours": 1.5,
+    "logins_count": 10,
+    "tasks_completed": 2,
+    "errors_reported": 0
+  },
+  {
+    "id": 10,
+    "name": "Lucas",
+    "role": "SRE",
+    "preferences": {
+      "language": "en",
+      "timezone": "UTC-5"
+    },
+    "last_login": "2025-11-25T08:50:00",
+    "session_hours": 3.0,
+    "logins_count": 20,
+    "tasks_completed": 6,
+    "errors_reported": 1
+  }
+]
