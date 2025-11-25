@@ -1,0 +1,11 @@
+app:
+  name: TestApp
+  version: 1.0
+  features:
+    auth: true
+    cache: false
+servers:
+  - name: backend
+    port: 8000
+  - name: frontend
+    port: 3000

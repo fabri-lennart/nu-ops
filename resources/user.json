@@ -1,0 +1,12 @@
+2025-11-24 10:14:32 [INFO] System boot completed.
+2025-11-24 10:14:35 [WARN] High CPU usage detected on node-3.
+2025-11-24 10:15:01 [ERROR] Failed to mount /dev/sda1. Code: 32.
+2025-11-24 10:17:55 [INFO] User 'deploy_agent' logged in.
+2025-11-24 10:20:10 [INFO] Cron job 'backup_db' started.
+2025-11-24 10:20:11 [ERROR] Backup error: missing table reference.
+2025-11-24 10:21:44 [WARN] Disk space running low: /var/log at 84%.
+2025-11-24 10:25:00 [INFO] Cron job 'backup_db' completed in 2891ms.
+2025-11-24 10:30:12 [ERROR] Network timeout detected to 10.0.2.14.
+2025-11-24 10:45:22 [INFO] Package update completed: 17 packages.
+2025-11-24 11:02:19 [WARN] Zombie processes found: 3.
+2025-11-24 11:14:40 [INFO] System health check passed.

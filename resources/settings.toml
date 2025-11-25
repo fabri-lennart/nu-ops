@@ -1,0 +1,10 @@
+title = "My App"
+version = "2.0"
+
+[database]
+host = "localhost"
+port = 5432
+enabled = true
+
+[limits]
+max_users = 50
